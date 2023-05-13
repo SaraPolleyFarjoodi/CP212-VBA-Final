@@ -1,2 +1,2 @@
 # CP212-VBA-Final
-Using and connecting Microsoft Excel Worksheets, Access Databases, and Word Documents using VBA and a bit of SQL to extract data
+The description of the program and how to use it is clearly stated in the Application Overview word document. The poll9960_a05.xlsm Microsoft Excel Worksheet is where the program is run from. The registar.mdb Microsoft Access Database is where the data is kept that we are drawing from. The Student Marking Application Report2022-04-05 01-54-59.docx is an example of the type of Word Document that you can generate as one of the functionalities in the Excel Worksheet.
